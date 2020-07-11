@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+##### Check my [CV](https://github.com/mohamedGamalAbuGalala/mohamedGamalAbuGalala/blob/master/Mohamed&#32;Gamal-&#32;Software&#32;Engineer.pdf)
 
 - 🔭 I’m currently working on Project with(Node with typescript, Prisma, react)
 - 🌱 I’m currently learning
