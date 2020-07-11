@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning
     * Refreshing my Algorithm knowledge.
     * [Microsrvice with node.js](https://www.udemy.com/course/microservices-with-node-js-and-react/)
-- 👯 I’m looking to collaborate on open source projects. 
-- 🤔 I’m looking for help with Anything
+- 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about Anything around js world, maybe I can help or learn about new stuff.
 - 📫 How to reach me: My email(mohamed.abugalala@gmail.com)
 - ⚡ Fun fact: You don't know what you don't know :joy:
