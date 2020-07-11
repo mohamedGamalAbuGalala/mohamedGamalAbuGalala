@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on open source projects. 
 - 🤔 I’m looking for help with Anything
 - 💬 Ask me about Anything around js world, maybe I can help or learn about new stuff.
-- 📫 How to reach me: My email(mohamed.abugalala@gmail.com
+- 📫 How to reach me: My email(mohamed.abugalala@gmail.com)
 - ⚡ Fun fact: You don't know what you don't know :joy:
 
 
