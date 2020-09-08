@@ -13,7 +13,6 @@
 ## 🧐 About
 - 🏄‍ Software Engineer who loves to leave a good impact in people lives.
 - 🌱 I’m currently learning
-    * Refreshing my Algorithm knowledge.
     * [Microsrvice with node.js](https://www.udemy.com/course/microservices-with-node-js-and-react/)
 - 💻 I'm currently core team member on many projects (Remotely) in USA.
 - 👯 I’m looking to collaborate on open source projects.
