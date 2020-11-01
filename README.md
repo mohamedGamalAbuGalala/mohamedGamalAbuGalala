@@ -3,6 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/mohamedabugalala-30302f?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedabugalala)
 [![Portfolio Badge](https://img.shields.io/badge/mohamedGamalAbuGalala-informational)](https://codetrace.com/users/mohamedGamalAbuGalala)
 [![Gmail Badge](https://img.shields.io/badge/mohamed.abugalala@gmai.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:mohamed.abugalala@gmai.com)
+[![HitCount](http://hits.dwyl.com/mohamedGamalAbuGalala/mohamedGamalAbuGalala.svg)](http://hits.dwyl.com/mohamedGamalAbuGalala/mohamedGamalAbuGalala)
 
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hola there 👋<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">           
@@ -20,6 +21,9 @@
 - 🎨 In my free time, you'll find me listening music or watching some series.
 - 💬 Ask me about Anything around js world, maybe I can help or learn about new stuff.
 - 📫 How to reach me: My email(mohamed.abugalala@gmail.com)
+
+
+[![Gamal's github stats](https://github-readme-stats.vercel.app/api?username=mohamedGamalAbuGalala&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
 
 
 <!--
