@@ -1,7 +1,6 @@
 # Mohamed Gamal 👨‍💻
 [![Twitter Badge](https://img.shields.io/badge/@abu_galala-30302f?style=flat&logo=twitter&logoColor=blue)](https://twitter.com/abu_galala)
 [![Linkedin Badge](https://img.shields.io/badge/mohamedabugalala-30302f?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedabugalala)
-[![Portfolio Badge](https://img.shields.io/badge/mohamedGamalAbuGalala-informational)](https://codetrace.com/users/mohamedGamalAbuGalala)
 [![Gmail Badge](https://img.shields.io/badge/mohamed.abugalala@gmai.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:mohamed.abugalala@gmai.com)
 
 
