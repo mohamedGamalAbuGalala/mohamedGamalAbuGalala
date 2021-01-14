@@ -3,7 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/mohamedabugalala-30302f?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedabugalala)
 [![Portfolio Badge](https://img.shields.io/badge/mohamedGamalAbuGalala-informational)](https://codetrace.com/users/mohamedGamalAbuGalala)
 [![Gmail Badge](https://img.shields.io/badge/mohamed.abugalala@gmai.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:mohamed.abugalala@gmai.com)
-[![HitCount](http://hits.dwyl.com/mohamedGamalAbuGalala/mohamedGamalAbuGalala.svg)](http://hits.dwyl.com/mohamedGamalAbuGalala/mohamedGamalAbuGalala)
 
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hola there 👋<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">           
@@ -13,7 +12,6 @@
 - 🏄‍ Software Engineer who loves to leave a good impact in people lives.
 - 💻 I'm currently a core team member on many projects (Remotely) in USA.
 - 👯 I’m looking to collaborate on open source projects.
-- 📫 How to reach me: My email(mohamed.abugalala@gmail.com)
 
 
 ## ⚡ Technologies
