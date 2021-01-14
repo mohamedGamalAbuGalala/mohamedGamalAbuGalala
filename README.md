@@ -8,10 +8,9 @@
 ##### I'm Mohamed Gamal, Graduated from Fcis 👨‍💻 2018. I love Software Engineering [(my CV)](https://github.com/mohamedGamalAbuGalala/mohamedGamalAbuGalala/blob/master/Mohamed&#32;Gamal-&#32;Software&#32;Engineer.pdf)
 
 ## 🧐 About
-- 🏄‍ Software Engineer who loves to leave a good impact in people lives.
+- 🏄‍ Software Engineer who loves to leave a good impact on people's lives.
 - 💻 I'm currently a core team member on many projects (Remotely for a USA company).
 - 👯 I’m looking to collaborate on open source projects.
-
 
 ## ⚡ Technologies
 
