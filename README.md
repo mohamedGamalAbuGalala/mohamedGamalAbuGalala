@@ -9,13 +9,13 @@
 
 ## 🧐 About
 - 🏄‍ Software Engineer who loves to leave a good impact in people lives.
-- 💻 I'm currently a core team member on many projects (Remotely) in USA.
+- 💻 I'm currently a core team member on many projects (Remotely for a USA company).
 - 👯 I’m looking to collaborate on open source projects.
 
 
 ## ⚡ Technologies
 
-<a href="https://codetrace.com/users/mohamedGamalAbuGalala"><img src="https://codetrace.com/widget/mohamedGamalAbuGalala" width="660" height="150" /></a>
+<a href="https://codetrace.com/users/mohamedGamalAbuGalala"><img src="https://codetrace.com/widget/mohamedGamalAbuGalala" width="550" height="120" /></a>
 
 
 [![Gamal's github stats](https://github-readme-stats.vercel.app/api?username=mohamedGamalAbuGalala&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
