@@ -5,7 +5,7 @@
 
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hola there 👋<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">           
-##### Computer science, Software Engineer with +3 years of experience, interested in building scalable web systems using open source tools, agile methodologies, have a very good experience working with international teams.
+##### Computer science, Software Engineer with +4 years of experience, interested in building scalable web systems using open source tools, agile methodologies, have a very good experience working with international teams.
 
 
 ## 🧐 About
