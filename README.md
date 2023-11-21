@@ -5,13 +5,13 @@
 
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hola there 👋<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">           
-##### Computer science, Software Engineer with +4 years of experience, interested in building scalable web systems using open source tools, agile methodologies, have a very good experience working with international teams.
+##### Computer science, Software Engineer with +5 years of experience, interested in building scalable web systems using open source tools, agile methodologies, have a very good experience working with international teams.
 
 
 ## 🧐 About
 - 🏄‍ Software Engineer who loves to leave a good impact on people's lives.
 - 💻 I'm currently a core team member on many projects (Remotely for a USA company).
-- 👯 I’m looking to collaborate on open source projects.
+- 👯 I’m looking to collaborate on open-source projects.
 
 ## ⚡ Technologies
 
