@@ -6,7 +6,7 @@ Right now I'm at ExperioLabs designing a multi-phase AI agent on LangGraph — t
 
 My career arc is competitive programmer → full-stack engineer → AI engineer. The competitive programming background turns out to be surprisingly useful when you're designing graph-enforced agent workflows — it's the same kind of problem decomposition, just with more YAML.
 
-I've been writing production code for 8+ years across Python, TypeScript, React, Node.js, Django, LangChain, Neo4j, and whatever else the problem demands. I have opinions about most of them.
+I've been writing production code for 8+ years across Python, TypeScript, React, Node.js, Django, LangChain, Neo4j, and whatever else the problem demands.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamedabugalala-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedabugalala)
 [![Email](https://img.shields.io/badge/Email-mohamed.abugalala@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mohamed.abugalala@gmail.com)
